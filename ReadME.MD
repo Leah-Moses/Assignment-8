@@ -25,7 +25,7 @@ Time spent: **X** hours spent in total
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: Blue2 Session hijaking
+  - [ ] Summary: Blue2(dqf) Session hijaking
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
