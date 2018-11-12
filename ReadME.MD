@@ -7,7 +7,7 @@ Time spent: **X** hours spent in total
 ## Pentesting Report
 
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: SQL Injection
+  - [ ] Summary: SQL Injection Blue 1
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
@@ -16,7 +16,7 @@ Time spent: **X** hours spent in total
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
+  - [ ] Summary: Green 1 XSS
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
@@ -25,7 +25,7 @@ Time spent: **X** hours spent in total
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
+  - [ ] Summary: Blue2 Session hijaking
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
@@ -34,7 +34,7 @@ Time spent: **X** hours spent in total
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
+  - [ ] Summary: Green2 username enumeration
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
