@@ -7,7 +7,7 @@ Time spent: **X** hours spent in total
 ## Pentesting Report
 
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
+  - [ ] Summary: SQL Injection
     - Vulnerability types:
     - Tested in version:
     - Fixed in version: 
